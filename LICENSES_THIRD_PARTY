@@ -1,0 +1,16 @@
+Replicate Assay Testing Calculator uses third-party R libraries which are distributed under the following licenses:
+
+GNU General Public License Version 2.0:
+* cowplot
+
+GNU General Public License Version 3.0:
+* egg
+* shiny
+* shinythemes
+
+MIT License
+* ggplot2
+* scales
+
+Mozilla Public License Version 2.0
+* data.table
